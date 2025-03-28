@@ -40,7 +40,7 @@ Las directorios están estructuradas para corresponder a los vídeos del curso. 
 Echa un vistazo a mis otros cursos en [LinkedIn Learning](https://www.linkedin.com/learning/instructors/ana-maria-pinto).
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
-[lil-course-url]: https://www.linkedin.com
-[lil-thumbnail-url]: https:
+[lil-course-url]: https://www.linkedin.com/learning/domina-python-tensorflow
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/v2/D4E0DAQGs4VqO_Vm_lQ/learning-public-crop_675_1200/B4EZXbXNcwHUAY-/0/1743142049851?e=2147483647&v=beta&t=JvTJQlxTvFCuVqKLJT61Rw0rLyD_NSFuYJi08mLgGPM
 
 [1]: # (End of ES-Instruction ###############################################################################################)
